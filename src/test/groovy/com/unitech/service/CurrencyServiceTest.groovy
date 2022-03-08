@@ -1,8 +1,7 @@
 package com.unitech.service
 
 import com.unitech.client.CurrencyClientMock
-import com.unitech.dao.entity.CurrencyEntity
-import com.unitech.dao.repository.CurrencyRepository
+
 import com.unitech.model.CurrencyDto
 import com.unitech.model.CurrencyRateDto
 import io.github.benas.randombeans.EnhancedRandomBuilder

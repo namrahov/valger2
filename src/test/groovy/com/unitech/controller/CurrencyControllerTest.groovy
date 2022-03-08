@@ -1,7 +1,7 @@
 package com.unitech.controller
 
 import com.unitech.model.CurrencyDto
-import com.unitech.service.CurrencyService
+
 import org.springframework.http.HttpStatus
 import org.springframework.http.MediaType
 import org.springframework.test.web.servlet.MockMvc

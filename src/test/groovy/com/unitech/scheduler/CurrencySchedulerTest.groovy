@@ -1,6 +1,6 @@
 package com.unitech.scheduler
 
-import com.unitech.service.CurrencyService
+
 import spock.lang.Specification
 
 class CurrencySchedulerTest extends Specification {

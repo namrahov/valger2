@@ -1,6 +1,6 @@
 package com.unitech.mapper
 
-import com.unitech.dao.entity.AccountEntity
+
 import io.github.benas.randombeans.EnhancedRandomBuilder
 import spock.lang.Specification
 

@@ -1,7 +1,6 @@
 package com.unitech.service
 
-import com.unitech.dao.entity.UserEntity
-import com.unitech.dao.repository.UserRepository
+
 import com.unitech.model.UserRegistrationDto
 import com.unitech.model.exception.UserRegisterException
 import io.github.benas.randombeans.EnhancedRandomBuilder

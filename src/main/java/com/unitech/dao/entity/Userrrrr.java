@@ -11,23 +11,25 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import java.math.BigDecimal;
 
 @Data
 @Entity
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name = "currencies")
-public class CurrencyEntity {
+@Table(name = "userrrrr")
+public class Userrrrr {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private Long id;
 
-    @Column(name = "currency")
-    private String currency;
+    @Column(name = "name")
+    private String name;
 
-    @Column(name = "value_than_dollar")
-    private BigDecimal valueThanDollar;
+    @Column(name = "email")
+    private String email;
+
+    @Column(name = "gender")
+    private String gender;
 }

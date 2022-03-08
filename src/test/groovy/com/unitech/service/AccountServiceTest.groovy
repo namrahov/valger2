@@ -1,9 +1,6 @@
 package com.unitech.service
 
-import com.unitech.dao.entity.AccountEntity
-import com.unitech.dao.entity.UserEntity
-import com.unitech.dao.repository.AccountRepository
-import com.unitech.dao.repository.UserRepository
+
 import com.unitech.model.TransferDto
 import com.unitech.model.enums.AccountType
 import com.unitech.model.exception.AccountNotFoundException

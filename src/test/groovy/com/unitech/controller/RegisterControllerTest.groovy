@@ -1,7 +1,7 @@
 package com.unitech.controller
 
 import com.unitech.model.UserRegistrationDto
-import com.unitech.service.RegisterService
+
 import org.springframework.http.HttpStatus
 import org.springframework.http.MediaType
 import org.springframework.test.web.servlet.MockMvc
